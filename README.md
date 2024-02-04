@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=favasfaz&label=Profile%20views&color=0e75b6&style=flat" alt="favasfaz" /> </p>
 
-- 🔭 I’m currently working on [BUYLAPS.SHOP](http://buylaps.shop/)
+- 🔭 I am currently working at Spericorn Technology.
 
-- 🌱 I’m currently learning **Next.js,react.js**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **react,Nextjs,Nodejs,Mongodb,MySql**
 
